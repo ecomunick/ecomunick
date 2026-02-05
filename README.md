@@ -22,6 +22,18 @@ Data Scientist by craft, problem-solver by habit.
 I like exploring data, asking the “why” and turning insights into models that actually get used.  
 My main interests live around **EDA, ML and Computer Vision**, and I’m intentionally building projects that move me toward a **Tech Lead role** in innovative, fast-moving teams.
 
+### 🚧 What I’m building
+
+- 🧠 **GenauTapi**  
+  An AI-powered app focused on improving precision and clarity in everyday decisions.  
+  Currently working on problem framing, data pipelines and ML-driven logic.  
+  → https://github.com/ecomunick/GenauTapi
+
+- 🐶 **Dog Health Tracker (Hardware + ML)**  
+  An end-to-end experimental project combining **IoT sensors (Seeed)** and **machine learning** to monitor dog health signals.  
+  Ongoing work includes data collection, signal analysis and model design (ML model in progress).
+
+
 
 <picture>
   <source 
