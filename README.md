@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph.svg"
+  >
+  <img 
+    alt="Pacman contribution graph" 
+    src="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph.svg"
+  >
+</picture>
 
 I’m Marcia,
 
@@ -34,18 +48,3 @@ My main interests live around **EDA, ML and Computer Vision**, and I’m intenti
   Ongoing work includes data collection, signal analysis and model design (ML model in progress).
 
 
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph.svg"
-  >
-  <img 
-    alt="Pacman contribution graph" 
-    src="https://raw.githubusercontent.com/ecomunick/ecomunick/output/pacman-contribution-graph.svg"
-  >
-</picture>
