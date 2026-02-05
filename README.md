@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Marcia,
+
+Data Scientist by craft, problem-solver by habit.
+
+I like exploring data, asking the “why” and turning insights into models that actually get used.  
+My main interests live around **EDA, ML and Computer Vision**, and I’m intentionally building projects that move me toward a **Tech Lead role** in innovative, fast-moving teams.
+
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
