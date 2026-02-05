@@ -45,6 +45,6 @@ My main interests live around **EDA, ML and Computer Vision**, and I’m intenti
 
 - 🐶 **Dog Health Tracker (Hardware + ML)**  
   An end-to-end experimental project combining **IoT sensors (Seeed)** and **machine learning** to monitor dog health signals.  
-  Ongoing work includes data collection, signal analysis and model design (ML model in progress).
+  Ongoing work includes data collection, signal analysis and model design (ML model _in progress_).
 
 
