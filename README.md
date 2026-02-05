@@ -41,7 +41,7 @@ My main interests live around **EDA, ML and Computer Vision**, and I’m intenti
 - 🧠 **GenauTapi**  
   An AI-powered app focused on improving precision and clarity in everyday decisions.  
   Currently working on problem framing, data pipelines and ML-driven logic.  
-  → https://github.com/ecomunick/GenauTapi
+  → Check it here: https://genautapi.onrender.com/ and the code here: https://github.com/ecomunick/GenauTapi
 
 - 🐶 **Dog Health Tracker (Hardware + ML)**  
   An end-to-end experimental project combining **IoT sensors (Seeed)** and **machine learning** to monitor dog health signals.  
